@@ -4,3 +4,5 @@ Untitled*.ipynb
 *.csv
 *.env
 *.xlsx
+*.txt
+*.tsv
