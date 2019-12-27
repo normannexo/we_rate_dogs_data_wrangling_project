@@ -1,4 +1,5 @@
 /data
+/img
 /.ipynb_checkpoints
 Untitled*.ipynb
 *.csv
@@ -6,3 +7,6 @@ Untitled*.ipynb
 *.xlsx
 *.txt
 *.tsv
+*.html
+wrangle_report.md
+act_report.md
